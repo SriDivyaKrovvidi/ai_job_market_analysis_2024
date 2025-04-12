@@ -28,4 +28,12 @@ This document outlines the project strategy, timelines, team roles (simulated), 
 
 ![Gantt Chart](./docs/Gantt_chart.png)
 
+## Future Enhancements
 
+This project will be extended in Phase 2 to include:
+- Real-time job data collection using web scraping (BeautifulSoup / Requests / Selenium)
+- Forecasting models to predict AI job trends
+- NLP topic modeling on job descriptions
+- Geo-visualizations of hiring hotspots
+
+This reflects the iterative nature of real product development.
