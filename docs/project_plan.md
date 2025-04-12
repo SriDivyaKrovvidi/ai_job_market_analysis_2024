@@ -10,7 +10,6 @@ This document outlines the project strategy, timelines, team roles (simulated), 
 | 3    | Analyze data, create dashboard          | DA / PA       |
 | 4    | Finalize insights, publish case study   | PO / PM       |
 
----
 
 ## Simulated Team Roles
 
@@ -21,6 +20,12 @@ This document outlines the project strategy, timelines, team roles (simulated), 
 | DA (Data Analyst) | Collect, clean, explore data               |
 | PA (Product Analyst) | Translate data into product-level insights |
 
----
 
 ## Folder Structure
+
+
+## Project Timeline
+
+![Gantt Chart](./docs/Gantt_chart.png)
+
+
